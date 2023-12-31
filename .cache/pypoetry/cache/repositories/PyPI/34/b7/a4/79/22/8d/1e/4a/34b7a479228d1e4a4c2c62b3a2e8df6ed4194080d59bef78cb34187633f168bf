@@ -1,0 +1,1 @@
+9999999999{"name": "panda", "version": "0.3.1", "summary": "A Python implementation of the Panda REST interface", "requires_dist": ["setuptools", "requests"], "requires_python": null, "files": [{"file": "panda-0.3.1.tar.gz", "hash": "sha256:f213b848f09268b3e9fce0e103155ab003217c0e27f6048b6194e7f90bb2b716"}], "yanked": false, "_cache_version": "2.0.0"}

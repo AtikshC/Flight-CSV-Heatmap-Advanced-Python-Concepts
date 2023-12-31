@@ -1,0 +1,1 @@
+9999999999{"name": "maplot", "version": "1.0.2", "summary": "Python package for creating interactive MA-plots", "requires_dist": ["scipy", "numpy", "matplotlib"], "requires_python": "*", "files": [{"file": "maplot-1.0.2.tar.gz", "hash": "sha256:9a4dbe20356752720cba4f0551f57fe263c640de859392d9cefbf2f84301782f"}], "yanked": false, "_cache_version": "2.0.0"}
